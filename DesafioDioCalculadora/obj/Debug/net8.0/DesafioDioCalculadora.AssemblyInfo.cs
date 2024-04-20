@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DesafioDioCalculadora")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6be6d955775f78af10011d8e2736c34600e9816f")]
 [assembly: System.Reflection.AssemblyProductAttribute("DesafioDioCalculadora")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DesafioDioCalculadora")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
