@@ -1,0 +1,14 @@
+C:\Users\vinia\OneDrive\Documentos\www\DesafioDioCalculadora\DesafioDioCalculadora\obj\Debug\net8.0\DesafioDioCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinia\OneDrive\Documentos\www\DesafioDioCalculadora\DesafioDioCalculadora\obj\Debug\net8.0\DesafioDioCalculadora.AssemblyInfoInputs.cache
+C:\Users\vinia\OneDrive\Documentos\www\DesafioDioCalculadora\DesafioDioCalculadora\obj\Debug\net8.0\DesafioDioCalculadora.AssemblyInfo.cs
+C:\Users\vinia\OneDrive\Documentos\www\DesafioDioCalculadora\DesafioDioCalculadora\obj\Debug\net8.0\DesafioDioCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\vinia\OneDrive\Documentos\www\DesafioDioCalculadora\DesafioDioCalculadora\bin\Debug\net8.0\DesafioDioCalculadora.exe
+C:\Users\vinia\OneDrive\Documentos\www\DesafioDioCalculadora\DesafioDioCalculadora\bin\Debug\net8.0\DesafioDioCalculadora.deps.json
+C:\Users\vinia\OneDrive\Documentos\www\DesafioDioCalculadora\DesafioDioCalculadora\bin\Debug\net8.0\DesafioDioCalculadora.runtimeconfig.json
+C:\Users\vinia\OneDrive\Documentos\www\DesafioDioCalculadora\DesafioDioCalculadora\bin\Debug\net8.0\DesafioDioCalculadora.dll
+C:\Users\vinia\OneDrive\Documentos\www\DesafioDioCalculadora\DesafioDioCalculadora\bin\Debug\net8.0\DesafioDioCalculadora.pdb
+C:\Users\vinia\OneDrive\Documentos\www\DesafioDioCalculadora\DesafioDioCalculadora\obj\Debug\net8.0\DesafioDioCalculadora.dll
+C:\Users\vinia\OneDrive\Documentos\www\DesafioDioCalculadora\DesafioDioCalculadora\obj\Debug\net8.0\refint\DesafioDioCalculadora.dll
+C:\Users\vinia\OneDrive\Documentos\www\DesafioDioCalculadora\DesafioDioCalculadora\obj\Debug\net8.0\DesafioDioCalculadora.pdb
+C:\Users\vinia\OneDrive\Documentos\www\DesafioDioCalculadora\DesafioDioCalculadora\obj\Debug\net8.0\DesafioDioCalculadora.genruntimeconfig.cache
+C:\Users\vinia\OneDrive\Documentos\www\DesafioDioCalculadora\DesafioDioCalculadora\obj\Debug\net8.0\ref\DesafioDioCalculadora.dll
