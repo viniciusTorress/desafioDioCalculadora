@@ -1,6 +1,6 @@
 # Desafio Dio Calculadora Testes
 
-Projeto elaborado durante a trilha do bootcamp .Net Developer Avanade, promovido pela Digital Innovation One (DIO), no módulo "Blindando Seu Código com TDD e Testes Unitários Usando .NET Core".
+Projeto elaborado durante a trilha do Bootcamp Coding The Future Avanade - .NET Developer, promovido pela [Digital Innovation One (DIO)](https://www.dio.me/), no módulo Blindando Seu Código com TDD e Testes Unitários Usando .NET Core.
 
 ## Contexto
 
